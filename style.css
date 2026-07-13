@@ -27,5 +27,18 @@ h1 {
 
 h1 span {
   color: red;
+.character-box {
+  width: 800px;
+  height: 450px;
+  margin: 30px auto;
+  border: 3px solid #7fdcff;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.08);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #7fdcff;
+  font-size: 32px;
+}
   font-size: 24px;
 }
